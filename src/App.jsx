@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <iframe 
-        src="http://inmaa3-vmtn21.navis.lan:17000/WebPortal/"
+        src="https://web1.navjmast.nav.cnw.co.nz/WebPortal/"
         width="100%"
         height="600px"
         title="Login Portal"
