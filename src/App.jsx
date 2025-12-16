@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <iframe 
-        src="https://navdmast.mtnavis.com/WebPortal"
+        src="http://inmaa3-vmtn21.navis.lan:17000/WebPortal/"
         width="100%"
         height="600px"
         title="Login Portal"
